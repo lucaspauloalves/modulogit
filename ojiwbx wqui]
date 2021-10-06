@@ -1,0 +1,66 @@
+[33mcommit 967a569ef5a6be548ba07308b184c70cd3f52882[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: e8c9a9f d9b49fd
+Author: lucas <lucasmarcia912@gmail.com>
+Date:   Wed Oct 6 16:55:43 2021 -0300
+
+    Merge branch 'master' of https://github.com/lucaspauloalves/modulogit
+
+[33mcommit d9b49fd64248fe2f7645af7f430d2cd5fe6035b5[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: lucaspauloalves <92039159+lucaspauloalves@users.noreply.github.com>
+Date:   Wed Oct 6 16:52:04 2021 -0300
+
+    CRIANDO O JS
+
+[33mcommit e8c9a9fd67c41e63e8d64452a90eddc0dbeedcc8[m
+Author: lucas <lucasmarcia912@gmail.com>
+Date:   Wed Oct 6 16:44:49 2021 -0300
+
+    atualizacao
+
+[33mcommit 793e27fdcc5da958276da92a527dc6c2850ab841[m
+Author: lucas <lucasmarcia912@gmail.com>
+Date:   Wed Oct 6 15:13:02 2021 -0300
+
+    adicionandojs
+
+[33mcommit 876bcafcea7621a77b12884700e4b42b2228d8b1[m
+Author: lucas <lucasmarcia912@gmail.com>
+Date:   Wed Oct 6 15:05:46 2021 -0300
+
+    atualizacao
+
+[33mcommit f06a562220e3d0e21ef444f45acb7958379c7e59[m
+Author: lucaspauloalves <92039159+lucaspauloalves@users.noreply.github.com>
+Date:   Wed Oct 6 13:41:40 2021 -0300
+
+    Create README.md
+
+[33mcommit 48da8811913cadf991021576233355ff93255af4[m
+Author: lucas <lucasmarcia912@gmail.com>
+Date:   Tue Oct 5 15:51:15 2021 -0300
+
+    criando css e index.html
+
+[33mcommit 9625c11315a8e803a334d9e0e04a866c2239f3cf[m
+Author: lucas <lucasmarcia912@gmail.com>
+Date:   Tue Oct 5 15:32:51 2021 -0300
+
+    criando o style
+
+[33mcommit 2146b61dbabf5be5d3cf39038cf67f34bbd06894[m
+Author: lucas <lucasmarcia912@gmail.com>
+Date:   Tue Oct 5 15:12:08 2021 -0300
+
+    criando os arquivos css
+
+[33mcommit 4f477cf313b8030f4fa83b2dbaf5d33f5a7309fd[m
+Author: lucas <lucasmarcia912@gmail.com>
+Date:   Tue Oct 5 14:32:46 2021 -0300
+
+    criando os aquivos principais index e stule
+
+[33mcommit 0996169763439e6e532ca01899e85e1d8db14e60[m
+Author: lucas <lucasmarcia912@gmail.com>
+Date:   Tue Oct 5 14:26:30 2021 -0300
+
+    primeiro commit
